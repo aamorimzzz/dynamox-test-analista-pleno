@@ -6,7 +6,7 @@ Teste técnico para **Analista de Dados**. Dashboard desenvolvido em **Power BI*
 
 ---
 
-## 📁 Estrutura da entrega
+##  Estrutura da entrega
 
 | Arquivo | Descrição |
 |---|---|
@@ -17,7 +17,7 @@ Teste técnico para **Analista de Dados**. Dashboard desenvolvido em **Power BI*
 
 ---
 
-## 🗂️ Modelagem
+##  Modelagem
 
 Modelo em **estrela (star schema)** com `invoices` como tabela fato:
 
@@ -31,7 +31,7 @@ Direção do filtro cruzado: **única** (dimensões → fato).
 
 ---
 
-## 🧹 Tratamento de dados (Power Query)
+##  Tratamento de dados (Power Query)
 
 A base continha problemas de qualidade que foram tratados:
 
@@ -99,7 +99,7 @@ SWITCH(
 
 ---
 
-## ✅ Respostas às perguntas
+##  Respostas às perguntas
 
 | # | Pergunta | Resposta |
 |---|---|---|
@@ -114,7 +114,7 @@ Faturamento total: **R$ 227,8 milhões**.
 
 ---
 
-## ⚠️ Observações de qualidade de dados
+##  Observações de qualidade de dados
 
 - **~37% do faturamento (R$ 85M)** está associado a códigos de vendedor **sem cadastro** em `sellers.csv` — recomenda-se completar o cadastro.
 - Existem **vendas com valor zerado** (`invoice_value = 0`), filtradas na análise de ticket por produto.
