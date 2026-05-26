@@ -1,0 +1,1193 @@
+business_partner_id,name,state,country,industry
+C000545,Inc 808,,BR,Logistics
+C000401,Solutions 787,,BR,Construction
+C000232,Company 145,,BR,Manufacturing
+C000448,Enterprise 250,,BR,Construction
+C000551,Inc 931,,BR,Technology
+C000629,Inc 114,,BR,Healthcare
+C000016,Company 298,,BR,Manufacturing
+C000427,Company 328,,BR,Manufacturing
+C000425,Company 675,,BR,Technology
+C000417,Enterprise 946,,BR,Logistics
+C000383,Inc 297,,BR,Healthcare
+C000681,Company 458,,BR,Technology
+C000382,Group 143,,BR,Financial Services
+C000810,Inc 983,,BR,Logistics
+C000557,Enterprise 692,,BR,Healthcare
+C000428,Inc 725,,BR,Healthcare
+C000430,Enterprise 617,,BR,Construction
+C000404,Company 369,,BR,Retail
+C001114,Company 889,,BR,Financial Services
+C000402,Inc 290,,BR,Healthcare
+C000909,Solutions 574,,BR,Education
+C000728,Company 640,,BR,Manufacturing
+C000400,Corp 309,,BR,Healthcare
+C000550,Company 246,,BR,Manufacturing
+C000665,Enterprise 758,,BR,Financial Services
+C000486,Solutions 983,,BR,Construction
+C000207,Corp 290,,BR,Manufacturing
+C000392,Solutions 151,,BR,Financial Services
+C000713,Inc 744,,BR,Healthcare
+C000573,Solutions 988,,AE,Retail
+C000592,Company 933,,SE,Logistics
+C000654,Company 478,AL,BR,Healthcare
+C000463,Inc 350,AM,BR,Financial Services
+C000274,Corp 832,BA,BR,Construction
+C000369,Corp 466,BA,BR,Technology
+C000465,Inc 597,BA,BR,Technology
+C000825,Company 917,BA,BR,Logistics
+C000734,Enterprise 380,BA,BR,Technology
+C000762,Corp 485,BA,BR,Financial Services
+C000091,Company 535,BA,BR,Logistics
+C000534,Enterprise 805,BA,BR,Construction
+C000938,Group 112,BA,BR,Technology
+C001087,Group 696,BA,BR,Construction
+C000489,Group 510,BA,BR,Retail
+C000543,Inc 198,BA,BR,Technology
+C000965,Enterprise 780,BA,BR,Retail
+C000709,Corp 721,BA,BR,Technology
+C000467,Inc 492,BA,BR,Retail
+C000688,Company 834,BA,BR,Technology
+C001192,Inc 347,BA,BR,Manufacturing
+C000899,Inc 648,BA,BR,Manufacturing
+C000601,Solutions 961,BA,BR,Financial Services
+C001187,Corp 695,BA,BR,Financial Services
+C001230,Solutions 676,BA,BR,Technology
+C000675,Company 720,BA,BR,Construction
+C000701,Company 779,BA,BR,Healthcare
+C000897,Corp 776,BA,BR,Technology
+C001083,Corp 643,BA,BR,Retail
+C000316,Inc 495,BA,BR,Retail
+C000953,Company 883,BA,BR,Financial Services
+C001132,Enterprise 533,BA,BR,Manufacturing
+C001129,Inc 365,BA,BR,Construction
+C000049,Corp 688,CE,BR,Logistics
+C000980,Company 319,CE,BR,Manufacturing
+C000895,Company 317,CE,BR,Construction
+C000577,Solutions 861,CE,BR,Financial Services
+C000917,Solutions 237,CE,BR,Technology
+C000975,Inc 616,CE,BR,Manufacturing
+C000651,Corp 811,CE,BR,Financial Services
+C000985,Enterprise 648,CE,BR,Retail
+C001006,Group 654,CE,BR,Construction
+C001134,Inc 403,CE,BR,Construction
+C000740,Corp 415,DF,BR,Logistics
+C001013,Group 586,DF,BR,Retail
+C001081,Inc 385,DF,BR,Technology
+C001116,Group 442,DF,BR,Technology
+C000329,Corp 507,ES,BR,Construction
+C000846,Group 441,ES,BR,Logistics
+C001177,Inc 575,ES,BR,Financial Services
+C000279,Company 456,ES,BR,Manufacturing
+C000211,Enterprise 253,ES,BR,Construction
+C000221,Solutions 574,ES,BR,Financial Services
+C000005,Corp 115,ES,BR,Technology
+C001067,Group 204,ES,BR,Healthcare
+C000757,Inc 259,ES,BR,Construction
+C000284,Corp 160,ES,BR,Manufacturing
+C000776,Solutions 177,ES,BR,Construction
+C001201,Inc 966,ES,BR,Healthcare
+C001094,Group 357,ES,BR,Retail
+C000511,Inc 145,ES,BR,Healthcare
+C000002,Inc 506,ES,BR,Retail
+C000150,Inc 987,ES,BR,Construction
+C000282,Enterprise 131,ES,BR,Construction
+C000491,Enterprise 122,ES,BR,Manufacturing
+C000970,Company 176,ES,BR,Retail
+C000599,Company 134,ES,BR,Logistics
+C000788,Company 698,ES,BR,Education
+C001044,Enterprise 156,ES,BR,Logistics
+C000124,Inc 108,ES,BR,Healthcare
+C000619,Enterprise 767,ES,BR,Healthcare
+C000468,Solutions 932,ES,BR,Healthcare
+C000853,Enterprise 939,ES,BR,Education
+C000498,Company 295,ES,BR,Logistics
+C000614,Inc 802,ES,BR,Retail
+C000225,Enterprise 394,ES,BR,Education
+C001128,Enterprise 620,ES,BR,Manufacturing
+C001125,Solutions 294,ES,BR,Manufacturing
+C000664,Corp 202,EX,MZ,Education
+C000332,Company 212,EX,AU,Financial Services
+C000253,Inc 983,EX,OM,Financial Services
+C000394,Enterprise 889,EX,DE,Healthcare
+C000587,Corp 864,EX,PE,Logistics
+C000447,Solutions 343,EX,OM,Technology
+C000245,Enterprise 809,EX,ID,Manufacturing
+C000450,Company 727,EX,US,Logistics
+C000140,Inc 587,EX,MY,Education
+C000360,Enterprise 977,EX,EC,Technology
+C000803,Inc 971,EX,CL,Retail
+C000832,Enterprise 233,EX,US,Construction
+C000666,Solutions 222,EX,ZA,Healthcare
+C000739,Solutions 679,EX,US,Technology
+C000520,Solutions 482,EX,OM,Logistics
+C000636,Enterprise 512,EX,PA,Manufacturing
+C000114,Group 479,EX,MZ,Technology
+C000415,Solutions 277,EX,AU,Retail
+C001247,Inc 616,EX,CH,Education
+C000667,Solutions 200,EX,MZ,Education
+C000254,Solutions 650,EX,US,Financial Services
+C000159,Inc 184,EX,NO,Retail
+C000824,Group 515,EX,TH,Technology
+C000180,Solutions 617,EX,ES,Construction
+C001016,Company 694,EX,US,Education
+C000156,Solutions 840,EX,FR,Retail
+C000264,Corp 724,EX,MY,Healthcare
+C000407,Group 191,EX,AU,Financial Services
+C000336,Corp 917,EX,ZA,Logistics
+C000368,Solutions 465,EX,PA,Construction
+C000896,Inc 542,EX,HK,Technology
+C000263,Corp 213,EX,MZ,Manufacturing
+C000405,Company 482,EX,OM,Manufacturing
+C000122,Company 317,EX,MY,Technology
+C001222,Enterprise 524,EX,NO,Logistics
+C000571,Enterprise 911,EX,US,Technology
+C000290,Inc 311,EX,FR,Manufacturing
+C000705,Company 464,EX,CA,Retail
+C000205,Group 190,EX,AU,Construction
+C000817,Solutions 283,EX,ZA,Technology
+C000856,Solutions 993,EX,DE,Logistics
+C000236,Group 912,EX,CN,Technology
+C000659,Inc 720,EX,DE,Financial Services
+C000529,Company 635,EX,NL,Healthcare
+C000321,Solutions 856,EX,PT,Construction
+C000176,Group 310,EX,AR,Retail
+C000116,Company 129,EX,MX,Technology
+C000107,Group 772,EX,OM,Education
+C000133,Inc 463,EX,ES,Retail
+C000374,Corp 575,EX,OM,Retail
+C000289,Enterprise 717,EX,OM,Healthcare
+C000379,Solutions 575,EX,CN,Construction
+C000285,Enterprise 287,EX,CL,Financial Services
+C000538,Inc 323,EX,AU,Construction
+C000973,Group 749,EX,AE,Financial Services
+C001220,Enterprise 442,EX,CL,Retail
+C001146,Corp 576,EX,AR,Financial Services
+C000814,Corp 692,EX,CO,Manufacturing
+C000750,Inc 902,EX,PY,Technology
+C000600,Enterprise 966,EX,PA,Manufacturing
+C000797,Inc 419,EX,DE,Construction
+C001066,Enterprise 230,EX,US,Healthcare
+C000819,Enterprise 147,EX,TH,Education
+C000541,Inc 461,EX,MZ,Education
+C001038,Solutions 319,EX,DE,Education
+C001098,Corp 842,EX,US,Technology
+C001104,Group 528,EX,CL,Manufacturing
+C000795,Group 765,EX,AR,Logistics
+C001144,Inc 589,EX,NZ,Healthcare
+C001267,Solutions 349,EX,AO,Education
+C000873,Corp 249,EX,US,Construction
+C000546,Inc 628,EX,ZA,Education
+C000841,Inc 954,EX,HN,Logistics
+C000806,Group 302,EX,PA,Technology
+C000821,Group 869,EX,CL,Manufacturing
+C001227,Inc 675,EX,CA,Retail
+C000634,Solutions 725,EX,MZ,Manufacturing
+C000930,Enterprise 944,EX,IN,Financial Services
+C000801,Inc 273,EX,FR,Manufacturing
+C001028,Solutions 575,EX,SE,Financial Services
+C001103,Solutions 274,EX,FI,Healthcare
+C000704,Solutions 667,EX,AU,Healthcare
+C000949,Corp 474,EX,NO,Retail
+C001004,Group 799,EX,US,Retail
+C001207,Enterprise 987,EX,CA,Construction
+C000992,Corp 896,EX,CA,Manufacturing
+C000682,Group 427,EX,PT,Technology
+C000951,Company 168,EX,HU,Financial Services
+C000100,Enterprise 131,EX,CL,Logistics
+C001091,Enterprise 623,EX,CO,Logistics
+C000804,Corp 958,EX,AU,Education
+C000845,Company 671,EX,IN,Manufacturing
+C001059,Enterprise 171,EX,PY,Education
+C000839,Corp 674,EX,MX,Education
+C001272,Corp 241,EX,GB,Financial Services
+C001271,Corp 701,EX,HN,Technology
+C000791,Enterprise 479,EX,OM,Financial Services
+C000901,Group 361,EX,US,Education
+C000813,Group 684,EX,ZA,Technology
+C000947,Group 805,EX,MX,Retail
+C000802,Solutions 186,EX,PE,Manufacturing
+C000540,Corp 710,EX,AU,Construction
+C000809,Company 222,EX,ID,Healthcare
+C000944,Company 947,EX,EC,Technology
+C001040,Corp 786,EX,AR,Retail
+C000500,Company 638,EX,MY,Healthcare
+C000406,Solutions 771,EX,BO,Retail
+C000157,Corp 903,EX,KR,Financial Services
+C000792,Corp 745,EX,EC,Manufacturing
+C000905,Enterprise 840,EX,PT,Logistics
+C000244,Corp 388,EX,ZM,Financial Services
+C000990,Enterprise 141,EX,OM,Logistics
+C001184,Corp 229,EX,MX,Manufacturing
+C001023,Corp 234,EX,SE,Manufacturing
+C000649,Group 431,EX,AR,Healthcare
+C000460,Corp 966,EX,MX,Construction
+C000724,Corp 408,EX,PK,Healthcare
+C000879,Enterprise 784,EX,AR,Healthcare
+C000984,Company 571,EX,AR,Financial Services
+C000105,Solutions 563,EX,MX,Retail
+C000793,Company 231,EX,OM,Education
+C000632,Corp 902,Ex,PH,Retail
+C000742,Solutions 772,GO,BR,Construction
+C000306,Group 453,GO,BR,Manufacturing
+C000444,Group 100,GO,BR,Construction
+C000759,Enterprise 418,GO,BR,Retail
+C000052,Group 604,GO,BR,Education
+C000922,Group 112,GO,BR,Retail
+C000928,Company 617,GO,BR,Manufacturing
+C000743,Solutions 532,GO,BR,Technology
+C000488,Group 277,GO,BR,Healthcare
+C000250,Solutions 278,GO,BR,Financial Services
+C000716,Corp 453,GO,BR,Retail
+C000229,Enterprise 719,GO,BR,Retail
+C000228,Company 750,GO,BR,Retail
+C000708,Enterprise 496,GO,BR,Construction
+C001024,Solutions 143,GO,BR,Manufacturing
+C000914,Solutions 336,GO,BR,Construction
+C000506,Corp 590,GO,BR,Manufacturing
+C000262,Corp 512,GO,BR,Construction
+C000210,Enterprise 624,GO,BR,Education
+C000848,Inc 655,GO,BR,Manufacturing
+C000826,Solutions 286,GO,BR,Logistics
+C000714,Inc 953,GO,BR,Healthcare
+C000881,Group 954,GO,BR,Education
+C000213,Company 905,MA,BR,Logistics
+C000655,Corp 650,MA,BR,Logistics
+C000721,Group 207,MA,BR,Logistics
+C000937,Group 507,MA,BR,Logistics
+C000008,Solutions 383,MA,BR,Retail
+C000578,Enterprise 143,MA,BR,Construction
+C000676,Company 131,MA,BR,Healthcare
+C000353,Inc 469,MA,BR,Technology
+C000145,Company 413,MA,BR,Construction
+C000466,Solutions 539,MA,BR,Construction
+C000113,Company 866,MA,BR,Financial Services
+C000893,Inc 105,MG,BR,Healthcare
+C000642,Corp 878,MG,BR,Manufacturing
+C000083,Enterprise 547,MG,BR,Education
+C000299,Solutions 221,MG,BR,Technology
+C000319,Enterprise 659,MG,BR,Healthcare
+C000051,Solutions 112,MG,BR,Education
+C000572,Corp 605,MG,BR,Retail
+C000235,Corp 426,MG,BR,Healthcare
+C000720,Corp 224,MG,BR,Retail
+C000026,Solutions 256,MG,BR,Technology
+C000889,Company 141,MG,BR,Education
+C000358,Group 524,MG,BR,Healthcare
+C001077,Company 510,MG,BR,Healthcare
+C000131,Group 606,MG,BR,Logistics
+C000695,Inc 131,MG,BR,Technology
+C000252,Inc 923,MG,BR,Manufacturing
+C000003,Group 122,MG,BR,Technology
+C000386,Corp 353,MG,BR,Retail
+C001154,Corp 140,MG,BR,Education
+C000065,Inc 365,MG,BR,Manufacturing
+C000298,Solutions 538,MG,BR,Retail
+C000690,Group 719,MG,BR,Logistics
+C000966,Corp 991,MG,BR,Logistics
+C000092,Group 372,MG,BR,Financial Services
+C001237,Enterprise 629,MG,BR,Construction
+C000069,Enterprise 463,MG,BR,Healthcare
+C000059,Solutions 118,MG,BR,Manufacturing
+C000605,Corp 645,MG,BR,Manufacturing
+C000012,Inc 511,MG,BR,Retail
+C000010,Inc 922,MG,BR,Construction
+C000954,Solutions 854,MG,BR,Financial Services
+C000190,Inc 300,MG,BR,Financial Services
+C000251,Company 125,MG,BR,Education
+C000222,Inc 825,MG,BR,Construction
+C000013,Enterprise 814,MG,BR,Construction
+C000528,Enterprise 766,MG,BR,Logistics
+C000562,Solutions 548,MG,BR,Logistics
+C000339,Inc 563,MG,BR,Technology
+C000265,Group 315,MG,BR,Manufacturing
+C000106,Enterprise 602,MG,BR,Logistics
+C000138,Corp 627,MG,BR,Healthcare
+C000333,Enterprise 532,MG,BR,Education
+C000258,Corp 862,MG,BR,Manufacturing
+C000481,Solutions 137,MG,BR,Healthcare
+C000153,Company 217,MG,BR,Retail
+C000418,Enterprise 999,MG,BR,Construction
+C000048,Company 339,MG,BR,Construction
+C000390,Corp 731,MG,BR,Logistics
+C000859,Enterprise 781,MG,BR,Technology
+C000805,Inc 190,MG,BR,Logistics
+C000837,Enterprise 560,MG,BR,Healthcare
+C000071,Inc 472,MG,BR,Logistics
+C000661,Company 415,MG,BR,Healthcare
+C000305,Corp 921,MG,BR,Technology
+C000202,Solutions 880,MG,BR,Retail
+C000388,Enterprise 551,MG,BR,Financial Services
+C000502,Company 337,MG,BR,Financial Services
+C000886,Company 284,MG,BR,Logistics
+C001150,Solutions 341,MG,BR,Manufacturing
+C000927,Solutions 871,MG,BR,Healthcare
+C000934,Corp 311,MG,BR,Technology
+C000918,Corp 983,MG,BR,Education
+C000913,Corp 773,MG,BR,Education
+C000924,Enterprise 424,MG,BR,Construction
+C000925,Solutions 531,MG,BR,Financial Services
+C001101,Solutions 931,MG,BR,Healthcare
+C000610,Group 148,MG,BR,Retail
+C000957,Inc 428,MG,BR,Logistics
+C000656,Solutions 456,MG,BR,Retail
+C001034,Inc 733,MG,BR,Construction
+C001209,Enterprise 150,MG,BR,Healthcare
+C000979,Solutions 906,MG,BR,Technology
+C000523,Corp 436,MG,BR,Healthcare
+C001046,Company 963,MG,BR,Logistics
+C000585,Solutions 543,MG,BR,Healthcare
+C000513,Group 164,MG,BR,Logistics
+C000717,Solutions 901,MG,BR,Technology
+C000785,Company 772,MG,BR,Logistics
+C001206,Inc 646,MG,BR,Financial Services
+C000348,Inc 502,MG,BR,Education
+C000537,Inc 150,MG,BR,Education
+C000991,Enterprise 785,MG,BR,Retail
+C000772,Corp 815,MG,BR,Technology
+C000161,Enterprise 939,MG,BR,Healthcare
+C000437,Solutions 147,MG,BR,Manufacturing
+C001071,Solutions 732,MG,BR,Retail
+C000184,Inc 536,MG,BR,Technology
+C000120,Group 377,MG,BR,Retail
+C000798,Group 125,MG,BR,Retail
+C000580,Solutions 882,MG,BR,Logistics
+C000703,Company 309,MG,BR,Retail
+C000906,Corp 122,MG,BR,Financial Services
+C000782,Solutions 328,MG,BR,Logistics
+C001152,Inc 381,MG,BR,Financial Services
+C000744,Solutions 501,MG,BR,Logistics
+C000561,Solutions 873,MG,BR,Retail
+C000547,Solutions 586,MG,BR,Retail
+C000677,Inc 309,MG,BR,Manufacturing
+C000624,Corp 351,MG,BR,Construction
+C000525,Group 599,MG,BR,Construction
+C000835,Solutions 413,MG,BR,Logistics
+C000109,Group 365,MG,BR,Logistics
+C000487,Corp 397,MG,BR,Education
+C000594,Company 487,MG,BR,Technology
+C001082,Enterprise 206,MG,BR,Manufacturing
+C001251,Enterprise 704,MG,BR,Financial Services
+C000680,Company 392,MG,BR,Financial Services
+C000754,Group 659,MG,BR,Construction
+C000389,Enterprise 195,MG,BR,Construction
+C000014,Solutions 205,MG,BR,Education
+C000166,Corp 890,MG,BR,Logistics
+C000554,Enterprise 151,MG,BR,Retail
+C000313,Corp 657,MG,BR,Logistics
+C000064,Group 771,MG,BR,Retail
+C000989,Enterprise 470,MG,BR,Manufacturing
+C000357,Company 765,MG,BR,Logistics
+C000867,Enterprise 169,MG,BR,Education
+C000004,Company 584,MG,BR,Manufacturing
+C000456,Corp 651,MG,BR,Logistics
+C000007,Enterprise 778,MG,BR,Technology
+C001058,Solutions 785,MG,BR,Education
+C001264,Group 110,MG,BR,Construction
+C000955,Inc 334,MG,BR,Healthcare
+C001250,Solutions 598,MG,BR,Manufacturing
+C000397,Inc 681,MG,BR,Manufacturing
+C001106,Enterprise 500,MG,BR,Financial Services
+C001186,Corp 965,MG,BR,Education
+C000579,Company 322,MG,BR,Construction
+C000536,Company 467,MG,BR,Retail
+C000574,Solutions 134,MG,BR,Technology
+C001080,Corp 572,MG,BR,Manufacturing
+C001274,Solutions 380,MG,BR,Education
+C001097,Group 183,MG,BR,Technology
+C001224,Enterprise 801,MG,BR,Technology
+C000923,Group 437,MG,BR,Healthcare
+C000006,Group 828,MG,BR,Logistics
+C000186,Enterprise 732,MG,BR,Construction
+C000070,Inc 957,MG,BR,Healthcare
+C000352,Group 643,MG,BR,Healthcare
+C000459,Corp 434,MG,BR,Financial Services
+C000843,Company 949,MG,BR,Healthcare
+C000273,Solutions 885,MG,BR,Manufacturing
+C000377,Group 533,MG,BR,Retail
+C001036,Group 517,MG,BR,Healthcare
+C000009,Corp 455,MG,BR,Logistics
+C000144,Inc 437,MG,BR,Financial Services
+C000729,Inc 623,MG,BR,Construction
+C000370,Inc 955,MG,BR,Technology
+C000983,Enterprise 269,MG,BR,Education
+C000242,Enterprise 694,MG,BR,Manufacturing
+C000622,Company 218,MG,BR,Healthcare
+C000457,Corp 103,MG,BR,Education
+C000767,Company 455,MG,BR,Logistics
+C000818,Inc 940,MG,BR,Logistics
+C000800,Corp 739,MG,BR,Construction
+C000568,Enterprise 110,MG,BR,Healthcare
+C000272,Solutions 602,MG,BR,Retail
+C001018,Group 365,MG,BR,Retail
+C000807,Company 518,MG,BR,Financial Services
+C000494,Solutions 522,MG,BR,Healthcare
+C000584,Inc 207,MG,BR,Retail
+C001035,Group 883,MG,BR,Retail
+C000454,Company 889,MG,BR,Logistics
+C000748,Company 874,MG,BR,Logistics
+C000483,Solutions 104,MG,BR,Technology
+C001020,Company 888,MG,BR,Technology
+C000351,Enterprise 567,MS,BR,Logistics
+C000731,Corp 616,MS,BR,Manufacturing
+C001027,Company 414,MS,BR,Retail
+C001257,Enterprise 901,MS,BR,Logistics
+C001021,Inc 230,MS,BR,Financial Services
+C001219,Corp 471,MS,BR,Education
+C000260,Enterprise 335,MS,BR,Manufacturing
+C001001,Company 774,MS,BR,Technology
+C000293,Company 232,MS,BR,Financial Services
+C000058,Inc 320,MS,BR,Manufacturing
+C000781,Corp 188,MS,BR,Education
+C000711,Solutions 257,MS,BR,Retail
+C000591,Corp 543,MS,BR,Logistics
+C001022,Inc 709,MS,BR,Retail
+C001193,Solutions 254,MS,BR,Technology
+C001139,Group 624,MS,BR,Technology
+C000082,Enterprise 195,MT,BR,Logistics
+C000359,Solutions 804,MT,BR,Construction
+C000011,Solutions 195,MT,BR,Healthcare
+C000056,Enterprise 945,MT,BR,Logistics
+C001214,Corp 594,MT,BR,Construction
+C000183,Corp 740,MT,BR,Manufacturing
+C001212,Company 342,MT,BR,Financial Services
+C000613,Corp 478,MT,BR,Manufacturing
+C001216,Enterprise 782,MT,BR,Technology
+C000933,Group 576,MT,BR,Construction
+C001213,Enterprise 342,MT,BR,Education
+C001210,Enterprise 660,MT,BR,Education
+C001211,Inc 785,MT,BR,Education
+C001119,Solutions 113,MT,BR,Construction
+C001074,Company 782,MT,BR,Manufacturing
+C001217,Group 517,MT,BR,Healthcare
+C000473,Corp 560,MT,BR,Technology
+C001218,Group 478,MT,BR,Manufacturing
+C001215,Group 780,MT,BR,Financial Services
+C000911,Company 695,MT,BR,Technology
+C001234,Inc 352,MT,BR,Financial Services
+C000961,Solutions 200,MT,BR,Technology
+C000218,Inc 353,MT,BR,Logistics
+C000858,Company 665,MT,BR,Education
+C001197,Company 707,MT,BR,Construction
+C001260,Enterprise 252,MT,BR,Manufacturing
+C001273,Corp 140,MT,BR,Healthcare
+C000719,Enterprise 549,MT,BR,Technology
+C000620,Inc 973,MT,BR,Financial Services
+C000718,Solutions 570,MT,BR,Retail
+C001252,Company 325,MT,BR,Retail
+C000940,Corp 477,MT,BR,Education
+C000838,Inc 377,PA,BR,Financial Services
+C000363,Solutions 729,PA,BR,Logistics
+C000796,Enterprise 127,PA,BR,Healthcare
+C000365,Inc 987,PA,BR,Construction
+C000134,Group 910,PA,BR,Technology
+C000322,Solutions 385,PA,BR,Retail
+C000142,Inc 383,PA,BR,Financial Services
+C000646,Corp 261,PA,BR,Financial Services
+C000277,Solutions 936,PA,BR,Education
+C000197,Enterprise 223,PA,BR,Construction
+C000308,Solutions 684,PA,BR,Education
+C000738,Inc 197,PA,BR,Healthcare
+C000746,Company 280,PA,BR,Construction
+C001245,Company 330,PA,BR,Technology
+C001225,Inc 411,PA,BR,Education
+C000479,Enterprise 569,PA,BR,Construction
+C000820,Inc 415,PA,BR,Technology
+C000910,Enterprise 885,PA,BR,Construction
+C000641,Solutions 158,PA,BR,Retail
+C000640,Inc 117,PA,BR,Logistics
+C000988,Group 747,PA,BR,Logistics
+C000539,Company 714,PA,BR,Construction
+C000469,Group 257,PA,BR,Retail
+C000526,Group 267,PA,BR,Manufacturing
+C000596,Company 446,PA,BR,Financial Services
+C001050,Enterprise 975,PA,BR,Manufacturing
+C000783,Inc 458,PA,BR,Financial Services
+C000162,Group 898,PA,BR,Logistics
+C001191,Enterprise 515,PA,BR,Financial Services
+C000702,Enterprise 896,PA,BR,Construction
+C000125,Company 501,PA,BR,Retail
+C000872,Company 122,PA,BR,Education
+C001249,Inc 376,PA,BR,Technology
+C000692,Company 143,PA,BR,Logistics
+C001253,Company 952,PA,BR,Education
+C000756,Company 979,PA,BR,Construction
+C000130,Group 227,PA,BR,Manufacturing
+C000977,Inc 557,PA,BR,Technology
+C000126,Group 845,PA,BR,Education
+C000108,Group 863,PA,BR,Education
+C000518,Group 169,PA,BR,Healthcare
+C000900,Group 793,PA,BR,Financial Services
+C000993,Group 440,PA,BR,Healthcare
+C000215,Inc 839,PA,BR,Logistics
+C001121,Group 721,PA,BR,Education
+C000514,Group 524,PA,BR,Manufacturing
+C000892,Corp 786,PA,BR,Financial Services
+C000710,Company 482,PA,BR,Financial Services
+C001086,Company 512,PA,BR,Education
+C001126,Inc 890,PA,BR,Logistics
+C000829,Inc 822,PB,BR,Technology
+C000755,Group 346,PB,BR,Financial Services
+C000112,Group 488,PB,BR,Education
+C000314,Enterprise 439,PB,BR,Logistics
+C000240,Solutions 341,PB,BR,Retail
+C000741,Corp 295,PB,BR,Retail
+C001190,Inc 725,PB,BR,Manufacturing
+C001030,Solutions 132,PE,BR,Healthcare
+C001045,Enterprise 980,PE,BR,Education
+C000668,Inc 366,PE,BR,Technology
+C001072,Corp 505,PE,BR,Manufacturing
+C000530,Group 598,PE,BR,Construction
+C000532,Company 456,PE,BR,Logistics
+C001039,Inc 376,PE,BR,Technology
+C001043,Corp 514,PE,BR,Technology
+C000564,Enterprise 348,PE,BR,Logistics
+C000723,Company 450,PE,BR,Education
+C000732,Solutions 850,PE,BR,Healthcare
+C001263,Solutions 663,PE,BR,Education
+C001189,Group 863,PE,BR,Construction
+C000959,Solutions 310,PE,BR,Construction
+C000779,Corp 524,PE,BR,Manufacturing
+C000275,Inc 809,PE,BR,Education
+C000061,Group 522,PR,BR,Construction
+C000269,Corp 894,PR,BR,Logistics
+C000967,Solutions 130,PR,BR,Financial Services
+C000942,Enterprise 268,PR,BR,Retail
+C000078,Enterprise 279,PR,BR,Logistics
+C000093,Corp 846,PR,BR,Construction
+C001157,Solutions 641,PR,BR,Logistics
+C000862,Group 154,PR,BR,Education
+C000035,Company 886,PR,BR,Logistics
+C000726,Solutions 846,PR,BR,Technology
+C000611,Group 444,PR,BR,Manufacturing
+C000593,Corp 376,PR,BR,Construction
+C000039,Enterprise 641,PR,BR,Financial Services
+C000072,Enterprise 338,PR,BR,Technology
+C000020,Company 762,PR,BR,Technology
+C001156,Company 565,PR,BR,Manufacturing
+C000343,Company 862,PR,BR,Retail
+C000178,Solutions 636,PR,BR,Financial Services
+C000410,Group 539,PR,BR,Healthcare
+C000331,Company 554,PR,BR,Construction
+C001117,Solutions 362,PR,BR,Education
+C001159,Group 566,PR,BR,Logistics
+C000508,Company 216,PR,BR,Education
+C000028,Solutions 737,PR,BR,Logistics
+C000115,Corp 774,PR,BR,Financial Services
+C000367,Inc 301,PR,BR,Healthcare
+C000053,Company 894,PR,BR,Construction
+C001031,Company 382,PR,BR,Retail
+C000085,Group 562,PR,BR,Financial Services
+C000094,Enterprise 693,PR,BR,Healthcare
+C000027,Group 210,PR,BR,Logistics
+C000089,Inc 797,PR,BR,Technology
+C000024,Company 317,PR,BR,Construction
+C000259,Solutions 817,PR,BR,Retail
+C000121,Group 152,PR,BR,Retail
+C000387,Group 728,PR,BR,Construction
+C001060,Corp 672,PR,BR,Construction
+C001236,Inc 450,PR,BR,Logistics
+C001203,Company 982,PR,BR,Technology
+C001229,Corp 120,PR,BR,Logistics
+C000090,Corp 864,PR,BR,Technology
+C000737,Company 576,PR,BR,Technology
+C001131,Corp 921,PR,BR,Technology
+C000617,Corp 561,PR,BR,Construction
+C000101,Solutions 420,PR,BR,Manufacturing
+C000950,Corp 689,PR,BR,Retail
+C000852,Group 690,PR,BR,Logistics
+C000123,Enterprise 556,PR,BR,Healthcare
+C000631,Enterprise 353,PR,BR,Financial Services
+C001032,Enterprise 442,PR,BR,Manufacturing
+C000227,Group 150,PR,BR,Education
+C000706,Enterprise 152,PR,BR,Financial Services
+C000588,Group 669,PR,BR,Construction
+C000542,Company 185,PR,BR,Logistics
+C000497,Enterprise 399,PR,BR,Logistics
+C000628,Group 720,PR,BR,Retail
+C000625,Corp 145,PR,BR,Logistics
+C000643,Inc 791,PR,BR,Healthcare
+C000707,Inc 358,PR,BR,Technology
+C000603,Enterprise 499,PR,BR,Construction
+C000196,Corp 430,PR,BR,Education
+C000257,Enterprise 189,PR,BR,Logistics
+C000171,Corp 536,PR,BR,Construction
+C000155,Solutions 213,PR,BR,Retail
+C001068,Corp 640,PR,BR,Construction
+C001069,Solutions 528,PR,BR,Education
+C000119,Group 143,PR,BR,Construction
+C000163,Group 738,PR,BR,Logistics
+C000606,Solutions 818,PR,BR,Healthcare
+C000604,Solutions 841,PR,BR,Technology
+C000548,Company 941,PR,BR,Logistics
+C000079,Group 513,PR,BR,Technology
+C000060,Inc 692,PR,BR,Financial Services
+C000096,Corp 167,PR,BR,Retail
+C000118,Company 709,PR,BR,Construction
+C000192,Inc 672,PR,BR,Construction
+C000496,Inc 332,PR,BR,Logistics
+C001054,Company 893,PR,BR,Technology
+C001011,Enterprise 488,PR,BR,Retail
+C000237,Group 572,PR,BR,Technology
+C000644,Corp 115,PR,BR,Retail
+C000662,Enterprise 728,PR,BR,Healthcare
+C000864,Inc 258,PR,BR,Education
+C001137,Enterprise 342,PR,BR,Education
+C000618,Corp 679,RJ,BR,Retail
+C000132,Corp 533,RJ,BR,Construction
+C000869,Group 143,RJ,BR,Financial Services
+C000608,Corp 261,RJ,BR,Retail
+C001147,Enterprise 240,RJ,BR,Technology
+C000570,Corp 555,RJ,BR,Manufacturing
+C001148,Inc 755,RJ,BR,Education
+C001181,Solutions 365,RJ,BR,Manufacturing
+C000063,Company 859,RJ,BR,Logistics
+C000328,Inc 146,RJ,BR,Technology
+C000493,Corp 970,RJ,BR,Financial Services
+C001259,Solutions 586,RJ,BR,Manufacturing
+C001123,Group 893,RJ,BR,Education
+C000556,Corp 296,RJ,BR,Construction
+C000808,Corp 582,RJ,BR,Retail
+C001228,Solutions 307,RJ,BR,Construction
+C000461,Company 716,RJ,BR,Education
+C000475,Enterprise 920,RJ,BR,Technology
+C000630,Inc 735,RJ,BR,Manufacturing
+C000978,Group 201,RJ,BR,Education
+C000581,Company 829,RJ,BR,Logistics
+C001062,Group 851,RJ,BR,Healthcare
+C001143,Inc 443,RJ,BR,Education
+C000276,Solutions 199,RJ,BR,Manufacturing
+C001085,Solutions 441,RJ,BR,Logistics
+C000766,Enterprise 458,RJ,BR,Technology
+C000768,Group 925,RJ,BR,Retail
+C000769,Company 773,RJ,BR,Manufacturing
+C000683,Corp 211,RJ,BR,Technology
+C000765,Enterprise 160,RJ,BR,Technology
+C000621,Corp 376,RJ,BR,Logistics
+C000462,Inc 134,RJ,BR,Technology
+C000492,Corp 540,RJ,BR,Financial Services
+C001093,Group 311,RJ,BR,Logistics
+C000627,Corp 427,RJ,BR,Construction
+C001048,Solutions 988,RJ,BR,Healthcare
+C000733,Corp 295,RJ,BR,Financial Services
+C000327,Inc 154,RJ,BR,Logistics
+C000544,Company 583,RJ,BR,Manufacturing
+C000198,Corp 350,RJ,BR,Construction
+C000851,Enterprise 374,RJ,BR,Technology
+C001090,Corp 572,RJ,BR,Financial Services
+C000929,Corp 462,RJ,BR,Logistics
+C001127,Inc 114,RJ,BR,Education
+C001238,Company 344,RJ,BR,Healthcare
+C000455,Company 700,RN,BR,Manufacturing
+C001014,Inc 642,RN,BR,Technology
+C001226,Solutions 722,RO,BR,Financial Services
+C000559,Inc 970,RS,BR,Healthcare
+C000663,Corp 556,RS,BR,Financial Services
+C000147,Solutions 449,RS,BR,Retail
+C000137,Company 526,RS,BR,Healthcare
+C000645,Corp 554,RS,BR,Healthcare
+C000364,Solutions 423,RS,BR,Logistics
+C001202,Enterprise 621,RS,BR,Manufacturing
+C000907,Enterprise 648,RS,BR,Construction
+C000019,Enterprise 675,RS,BR,Healthcare
+C000080,Inc 598,RS,BR,Financial Services
+C000868,Enterprise 544,RS,BR,Financial Services
+C000653,Solutions 661,RS,BR,Manufacturing
+C000300,Inc 430,RS,BR,Healthcare
+C000292,Group 944,RS,BR,Healthcare
+C000794,Solutions 830,RS,BR,Technology
+C000436,Company 911,RS,BR,Healthcare
+C000698,Group 706,RS,BR,Technology
+C000261,Group 697,RS,BR,Manufacturing
+C000117,Group 300,RS,BR,Manufacturing
+C000789,Solutions 692,RS,BR,Education
+C000045,Group 705,RS,BR,Manufacturing
+C000315,Enterprise 627,RS,BR,Manufacturing
+C000309,Group 957,RS,BR,Education
+C000451,Inc 440,RS,BR,Manufacturing
+C001208,Inc 460,RS,BR,Logistics
+C000255,Corp 265,RS,BR,Retail
+C000727,Inc 262,RS,BR,Retail
+C000128,Company 479,RS,BR,Logistics
+C000912,Company 594,RS,BR,Retail
+C001033,Company 620,RS,BR,Manufacturing
+C000712,Group 450,RS,BR,Construction
+C001057,Company 129,RS,BR,Financial Services
+C000185,Company 162,RS,BR,Financial Services
+C000139,Corp 172,RS,BR,Technology
+C001092,Group 808,RS,BR,Construction
+C001232,Solutions 458,RS,BR,Retail
+C001041,Inc 241,RS,BR,Logistics
+C000174,Corp 650,RS,BR,Financial Services
+C001266,Inc 846,RS,BR,Healthcare
+C000521,Company 866,RS,BR,Healthcare
+C000563,Solutions 103,RS,BR,Logistics
+C000195,Group 936,RS,BR,Manufacturing
+C001002,Corp 792,RS,BR,Healthcare
+C000684,Company 806,RS,BR,Retail
+C000887,Corp 739,SC,BR,Logistics
+C000960,Corp 327,SC,BR,Manufacturing
+C000847,Enterprise 994,SC,BR,Manufacturing
+C000512,Inc 985,SC,BR,Financial Services
+C000828,Group 678,SC,BR,Education
+C000647,Inc 157,SC,BR,Logistics
+C001171,Solutions 548,SC,BR,Financial Services
+C001130,Company 475,SC,BR,Logistics
+C001255,Group 236,SC,BR,Construction
+C000920,Enterprise 227,SC,BR,Retail
+C001270,Company 312,SC,BR,Retail
+C000842,Company 425,SC,BR,Education
+C001007,Corp 627,SC,BR,Manufacturing
+C000287,Enterprise 390,SC,BR,Financial Services
+C001100,Solutions 347,SC,BR,Education
+C001061,Company 721,SC,BR,Financial Services
+C000361,Enterprise 711,SC,BR,Financial Services
+C001223,Solutions 105,SC,BR,Construction
+C000023,Group 127,SC,BR,Logistics
+C001261,Inc 523,SC,BR,Retail
+C000652,Enterprise 919,SC,BR,Healthcare
+C000362,Corp 466,SC,BR,Financial Services
+C001166,Corp 875,SC,BR,Financial Services
+C001269,Corp 741,SC,BR,Technology
+C000270,Solutions 826,SC,BR,Construction
+C000589,Group 810,SC,BR,Logistics
+C000296,Solutions 731,SC,BR,Education
+C001180,Group 378,SC,BR,Financial Services
+C001037,Group 422,SC,BR,Healthcare
+C001204,Inc 980,SC,BR,Financial Services
+C000175,Corp 725,SC,BR,Logistics
+C000179,Solutions 725,SC,BR,Financial Services
+C000110,Company 658,SC,BR,Healthcare
+C000167,Group 902,SC,BR,Construction
+C001153,Inc 834,SC,BR,Construction
+C000996,Inc 308,SC,BR,Education
+C001195,Enterprise 967,SC,BR,Construction
+C001056,Company 831,SC,BR,Logistics
+C000381,Group 176,SC,BR,Education
+C001015,Corp 871,SC,BR,Financial Services
+C001170,Corp 767,SC,BR,Financial Services
+C000256,Company 249,SC,BR,Healthcare
+C001179,Enterprise 353,SC,BR,Financial Services
+C001176,Solutions 110,SC,BR,Retail
+C000194,Corp 835,SC,BR,Retail
+C000968,Company 788,SC,BR,Financial Services
+C000650,Solutions 834,SC,BR,Healthcare
+C000337,Company 280,SC,BR,Education
+C000074,Enterprise 778,SC,BR,Technology
+C000969,Company 642,SC,BR,Manufacturing
+C000380,Inc 871,SC,BR,Healthcare
+C001165,Enterprise 336,SC,BR,Financial Services
+C000890,Corp 531,SC,BR,Education
+C000294,Company 839,SC,BR,Financial Services
+C000164,Corp 948,SC,BR,Technology
+C000519,Group 486,SC,BR,Manufacturing
+C000480,Group 141,SC,BR,Technology
+C000522,Corp 465,SC,BR,Technology
+C000505,Inc 876,SC,BR,Logistics
+C000686,Solutions 396,SC,BR,Education
+C001105,Solutions 581,SC,BR,Retail
+C001242,Corp 763,SC,BR,Healthcare
+C000029,Corp 448,SC,BR,Financial Services
+C000354,Group 219,SC,BR,Manufacturing
+C000995,Inc 216,SC,BR,Retail
+C001145,Group 374,SC,BR,Technology
+C001169,Inc 389,SC,BR,Healthcare
+C001254,Group 409,SC,BR,Healthcare
+C000424,Company 472,SC,BR,Healthcare
+C001025,Company 709,SC,BR,Education
+C000586,Solutions 291,SC,BR,Retail
+C001194,Enterprise 951,SC,BR,Education
+C001160,Corp 325,SC,BR,Logistics
+C000956,Company 927,SC,BR,Retail
+C001073,Solutions 280,SC,BR,Logistics
+C000442,Corp 212,SC,BR,Logistics
+C001183,Inc 150,SC,BR,Healthcare
+C000875,Inc 108,SC,BR,Construction
+C000855,Group 189,SC,BR,Manufacturing
+C001109,Corp 715,SC,BR,Retail
+C001256,Solutions 798,SC,BR,Manufacturing
+C000055,Corp 405,SC,BR,Construction
+C000373,Solutions 716,SC,BR,Education
+C000238,Group 763,SC,BR,Education
+C000948,Corp 709,SC,BR,Education
+C001221,Inc 291,SC,BR,Financial Services
+C000325,Corp 869,SC,BR,Manufacturing
+C000042,Group 586,SC,BR,Financial Services
+C001155,Corp 769,SC,BR,Financial Services
+C000504,Corp 350,SC,BR,Healthcare
+C001262,Enterprise 733,SC,BR,Manufacturing
+C001174,Solutions 758,SC,BR,Healthcare
+C000081,Enterprise 799,SC,BR,Healthcare
+C000075,Corp 600,SC,BR,Technology
+C000790,Enterprise 579,SC,BR,Healthcare
+C000997,Solutions 853,SC,BR,Construction
+C000378,Enterprise 170,SC,BR,Construction
+C000224,Group 383,SC,BR,Manufacturing
+C000219,Inc 192,SC,BR,Education
+C001178,Corp 778,SC,BR,Technology
+C000994,Group 740,SC,BR,Technology
+C000874,Company 759,SC,BR,Technology
+C000032,Solutions 588,SC,BR,Education
+C000230,Corp 942,SC,BR,Education
+C001164,Corp 986,SC,BR,Education
+C000565,Solutions 345,SC,BR,Retail
+C000569,Corp 811,SC,BR,Healthcare
+C000248,Company 977,SC,BR,Construction
+C001163,Corp 361,SC,BR,Education
+C000941,Group 623,SC,BR,Logistics
+C001140,Corp 493,SC,BR,Retail
+C001051,Group 307,SC,BR,Education
+C001241,Solutions 291,SC,BR,Education
+C001172,Company 948,SC,BR,Education
+C000054,Solutions 808,SC,BR,Healthcare
+C001084,Group 351,SC,BR,Education
+C001268,Inc 930,SC,BR,Healthcare
+C000735,Inc 898,SC,BR,Financial Services
+C001161,Group 680,SC,BR,Healthcare
+C000439,Solutions 416,SC,BR,Manufacturing
+C000823,Company 896,SC,BR,Technology
+C000234,Inc 914,SC,BR,Healthcare
+C001005,Company 896,SC,BR,Healthcare
+C001173,Group 494,SC,BR,Healthcare
+C001012,Corp 432,SC,BR,Financial Services
+C001079,Solutions 472,SC,BR,Healthcare
+C000974,Corp 526,SC,BR,Financial Services
+C000200,Company 971,SC,BR,Retail
+C000763,Enterprise 810,SC,BR,Financial Services
+C001198,Solutions 997,SC,BR,Healthcare
+C000637,Group 421,SC,BR,Education
+C000958,Company 474,SC,BR,Financial Services
+C000440,Enterprise 887,SC,BR,Retail
+C001120,Company 526,SC,BR,Healthcare
+C001240,Solutions 974,SC,BR,Technology
+C000152,Solutions 830,SC,BR,Retail
+C000330,Group 241,SC,BR,Construction
+C000170,Enterprise 740,SC,BR,Manufacturing
+C000602,Inc 922,SC,BR,Retail
+C001138,Enterprise 304,SC,BR,Financial Services
+C000204,Solutions 685,SC,BR,Healthcare
+C000736,Company 595,SC,BR,Financial Services
+C000787,Corp 957,SC,BR,Construction
+C000700,Company 718,SC,BR,Healthcare
+C001047,Enterprise 435,SC,BR,Education
+C000464,Inc 510,SC,BR,Financial Services
+C000598,Inc 354,SC,BR,Manufacturing
+C000811,Company 775,SC,BR,Logistics
+C000633,Enterprise 188,SC,BR,Logistics
+C000490,Company 179,SC,BR,Technology
+C000476,Group 142,SC,BR,Education
+C000609,Solutions 456,SC,BR,Healthcare
+C000635,Inc 899,SC,BR,Education
+C000517,Enterprise 584,SC,BR,Education
+C000595,Solutions 786,SC,BR,Retail
+C000583,Corp 605,SC,BR,Education
+C000136,Solutions 380,SC,BR,Education
+C000535,Solutions 828,SC,BR,Healthcare
+C000815,Group 338,SC,BR,Manufacturing
+C000963,Solutions 466,SC,BR,Logistics
+C000916,Solutions 280,SC,BR,Education
+C000458,Corp 682,SC,BR,Logistics
+C000062,Group 306,SC,BR,Healthcare
+C000295,Inc 215,SC,BR,Technology
+C001112,Enterprise 976,SC,BR,Retail
+C000527,Enterprise 772,SC,BR,Education
+C001070,Corp 918,SC,BR,Financial Services
+C000730,Company 197,SC,BR,Financial Services
+C000888,Corp 262,SC,BR,Construction
+C001258,Group 842,SC,BR,Technology
+C000699,Enterprise 165,SC,BR,Logistics
+C000267,Company 732,SC,BR,Technology
+C000036,Inc 603,SC,BR,Retail
+C001199,Enterprise 615,SC,BR,Healthcare
+C000102,Corp 943,SC,BR,Healthcare
+C000722,Company 923,SC,BR,Manufacturing
+C000685,Solutions 803,SC,BR,Technology
+C000854,Company 475,SC,BR,Manufacturing
+C000531,Enterprise 207,SC,BR,Healthcare
+C000786,Corp 632,SC,BR,Financial Services
+C000865,Group 600,SC,BR,Manufacturing
+C000429,Enterprise 291,SE,BR,Construction
+C000226,Company 388,SE,BR,Financial Services
+C000946,Group 416,SE,BR,Construction
+C000349,Company 535,SE,BR,Manufacturing
+C000326,Solutions 924,SE,BR,Retail
+C001026,Solutions 602,SE,BR,Construction
+C001149,Group 358,SE,BR,Logistics
+C001133,Enterprise 647,SE,BR,Technology
+C000031,Solutions 134,SP,BR,Technology
+C000597,Solutions 565,SP,BR,Healthcare
+C000338,Inc 813,SP,BR,Manufacturing
+C001182,Solutions 626,SP,BR,Manufacturing
+C000671,Solutions 201,SP,BR,Manufacturing
+C000431,Inc 862,SP,BR,Logistics
+C000672,Enterprise 862,SP,BR,Construction
+C000193,Inc 213,SP,BR,Financial Services
+C000086,Enterprise 980,SP,BR,Technology
+C000057,Solutions 912,SP,BR,Manufacturing
+C000777,Company 330,SP,BR,Logistics
+C000432,Corp 203,SP,BR,Technology
+C000567,Inc 117,SP,BR,Retail
+C000987,Company 114,SP,BR,Construction
+C001162,Company 816,SP,BR,Construction
+C001113,Corp 337,SP,BR,Technology
+C000135,Group 672,SP,BR,Technology
+C000177,Company 839,SP,BR,Technology
+C000753,Inc 320,SP,BR,Education
+C000408,Corp 224,SP,BR,Financial Services
+C000952,Inc 795,SP,BR,Healthcare
+C000903,Inc 916,SP,BR,Technology
+C000212,Inc 985,SP,BR,Technology
+C000863,Solutions 802,SP,BR,Technology
+C000209,Solutions 260,SP,BR,Retail
+C000840,Enterprise 723,SP,BR,Construction
+C000775,Enterprise 278,SP,BR,Education
+C000291,Solutions 872,SP,BR,Construction
+C001168,Inc 594,SP,BR,Construction
+C000278,Corp 670,SP,BR,Logistics
+C000030,Company 869,SP,BR,Technology
+C001175,Solutions 850,SP,BR,Financial Services
+C000129,Enterprise 940,SP,BR,Construction
+C000088,Corp 189,SP,BR,Retail
+C000849,Group 106,SP,BR,Logistics
+C000044,Enterprise 621,SP,BR,Retail
+C000758,Company 457,SP,BR,Financial Services
+C000799,Company 569,SP,BR,Manufacturing
+C000945,Company 380,SP,BR,Manufacturing
+C000860,Group 304,SP,BR,Technology
+C000981,Enterprise 559,SP,BR,Logistics
+C000943,Group 217,SP,BR,Education
+C000812,Corp 905,SP,BR,Construction
+C000433,Inc 575,SP,BR,Education
+C000191,Inc 991,SP,BR,Healthcare
+C000040,Inc 258,SP,BR,Construction
+C000898,Company 806,SP,BR,Manufacturing
+C000660,Group 824,SP,BR,Manufacturing
+C001064,Inc 778,SP,BR,Financial Services
+C000084,Corp 565,SP,BR,Manufacturing
+C000001,Solutions 661,SP,BR,Logistics
+C001158,Company 771,SP,BR,Education
+C000575,Group 280,SP,BR,Education
+C000670,Company 207,SP,BR,Retail
+C001088,Group 771,SP,BR,Education
+C000173,Corp 494,SP,BR,Logistics
+C000936,Enterprise 963,SP,BR,Logistics
+C000449,Solutions 797,SP,BR,Healthcare
+C000303,Inc 949,SP,BR,Logistics
+C000347,Corp 668,SP,BR,Financial Services
+C000189,Company 240,SP,BR,Construction
+C000073,Company 382,SP,BR,Retail
+C000894,Inc 591,SP,BR,Retail
+C000549,Corp 657,SP,BR,Retail
+C000043,Group 131,SP,BR,Manufacturing
+C000453,Inc 585,SP,BR,Retail
+C000149,Company 302,SP,BR,Technology
+C000223,Solutions 471,SP,BR,Logistics
+C000471,Group 396,SP,BR,Healthcare
+C000286,Group 301,SP,BR,Construction
+C000203,Inc 242,SP,BR,Technology
+C000827,Corp 850,SP,BR,Education
+C000249,Group 632,SP,BR,Retail
+C000038,Company 512,SP,BR,Healthcare
+C001009,Corp 233,SP,BR,Education
+C000774,Group 438,SP,BR,Construction
+C001076,Inc 326,SP,BR,Financial Services
+C000046,Solutions 983,SP,BR,Healthcare
+C000095,Solutions 882,SP,BR,Financial Services
+C000312,Corp 854,SP,BR,Education
+C000077,Corp 151,SP,BR,Technology
+C000111,Corp 780,SP,BR,Retail
+C000833,Group 229,SP,BR,Retail
+C000778,Company 288,SP,BR,Technology
+C000902,Corp 130,SP,BR,Logistics
+C000201,Group 425,SP,BR,Financial Services
+C000877,Enterprise 313,SP,BR,Financial Services
+C001235,Inc 911,SP,BR,Retail
+C001151,Company 114,SP,BR,Logistics
+C000087,Inc 688,SP,BR,Construction
+C000999,Enterprise 644,SP,BR,Logistics
+C000280,Group 325,SP,BR,Financial Services
+C000311,Solutions 953,SP,BR,Technology
+C000047,Inc 984,SP,BR,Healthcare
+C000041,Inc 233,SP,BR,Logistics
+C001167,Corp 262,SP,BR,Healthcare
+C000861,Inc 430,SP,BR,Financial Services
+C000612,Group 900,SP,BR,Education
+C000986,Enterprise 866,SP,BR,Education
+C000482,Company 895,SP,BR,Logistics
+C000674,Enterprise 662,SP,BR,Logistics
+C001265,Group 945,SP,BR,Construction
+C001122,Company 944,SP,BR,Logistics
+C000850,Company 119,SP,BR,Retail
+C001244,Company 389,SP,BR,Manufacturing
+C000972,Inc 238,SP,BR,Retail
+C000288,Corp 229,SP,BR,Manufacturing
+C000344,Group 305,SP,BR,Healthcare
+C001243,Inc 987,SP,BR,Retail
+C000510,Corp 955,SP,BR,Education
+C001000,Group 256,SP,BR,Financial Services
+C000334,Company 268,SP,BR,Education
+C000915,Inc 324,SP,BR,Education
+C000552,Group 509,SP,BR,Financial Services
+C000208,Corp 276,SP,BR,Technology
+C001200,Inc 507,SP,BR,Education
+C001063,Solutions 694,SP,BR,Education
+C001246,Corp 895,SP,BR,Financial Services
+C000908,Solutions 134,SP,BR,Construction
+C000971,Group 393,SP,BR,Construction
+C000246,Solutions 762,SP,BR,Construction
+C000678,Corp 517,SP,BR,Education
+C000747,Enterprise 398,SP,BR,Manufacturing
+C000443,Group 440,SP,BR,Technology
+C001205,Group 997,SP,BR,Logistics
+C001010,Company 831,SP,BR,Education
+C001275,Company 986,SP,BR,Construction
+C001141,Inc 351,SP,BR,Retail
+C000878,Inc 353,SP,BR,Construction
+C000638,Inc 770,SP,BR,Retail
+C000639,Enterprise 632,SP,BR,Financial Services
+C000018,Corp 490,SP,BR,Retail
+C000501,Company 256,SP,BR,Healthcare
+C000760,Solutions 964,SP,BR,Healthcare
+C000751,Corp 693,SP,BR,Healthcare
+C000745,Group 500,SP,BR,Retail
+C000342,Inc 409,SP,BR,Education
+C000880,Group 907,SP,BR,Retail
+C001239,Enterprise 491,SP,BR,Healthcare
+C000452,Enterprise 569,SP,BR,Construction
+C000844,Inc 375,SP,BR,Retail
+C000239,Corp 744,SP,BR,Retail
+C000187,Company 790,SP,BR,Healthcare
+C000220,Solutions 889,SP,BR,Construction
+C000658,Solutions 788,SP,BR,Retail
+C000616,Company 480,SP,BR,Manufacturing
+C001108,Inc 865,SP,BR,Manufacturing
+C000871,Enterprise 184,SP,BR,Retail
+C000214,Corp 788,SP,BR,Logistics
+C001142,Company 582,SP,BR,Technology
+C000822,Corp 331,SP,BR,Healthcare
+C000830,Inc 248,SP,BR,Retail
+C000474,Group 306,SP,BR,Construction
+C000623,Corp 167,SP,BR,Healthcare
+C000836,Company 257,SP,BR,Technology
+C000876,Company 915,SP,BR,Technology
+C000576,Enterprise 369,SP,BR,Construction
+C000558,Group 553,SP,BR,Logistics
+C000524,Corp 456,SP,BR,Healthcare
+C000495,Company 685,SP,BR,Technology
+C000477,Company 906,SP,BR,Healthcare
+C000673,Enterprise 747,SP,BR,Manufacturing
+C000499,Enterprise 658,SP,BR,Manufacturing
+C000669,Corp 319,SP,BR,Manufacturing
+C000582,Company 307,SP,BR,Healthcare
+C001102,Company 196,SP,BR,Logistics
+C001019,Enterprise 160,SP,BR,Construction
+C000566,Inc 601,SP,BR,Healthcare
+C000555,Solutions 971,SP,BR,Financial Services
+C000560,Enterprise 615,SP,BR,Retail
+C000870,Enterprise 227,SP,BR,Logistics
+C000615,Group 873,SP,BR,Financial Services
+C001049,Corp 302,SP,BR,Healthcare
+C001185,Inc 876,SP,BR,Logistics
+C001052,Company 679,SP,BR,Education
+C001065,Solutions 752,SP,BR,Retail
+C001053,Solutions 336,SP,BR,Education
+C000478,Corp 984,SP,BR,Technology
+C001095,Company 819,SP,BR,Logistics
+C001196,Solutions 914,SP,BR,Manufacturing
+C000857,Group 641,SP,BR,Healthcare
+C000752,Solutions 352,SP,BR,Logistics
+C000697,Company 326,SP,BR,Technology
+C001078,Company 757,SP,BR,Manufacturing
+C000919,Corp 975,SP,BR,Technology
+C000998,Group 451,SP,BR,Manufacturing
+C000188,Company 414,SP,BR,Logistics
+C000784,Solutions 870,SP,BR,Retail
+C001008,Company 484,SP,BR,Education
+C001136,Enterprise 601,SP,BR,Technology
+C000068,Enterprise 674,SP,BR,Healthcare
+C001248,Company 943,SP,BR,Technology
+C000037,Inc 283,SP,BR,Healthcare
+C000472,Corp 404,SP,BR,Technology
+C000470,Group 999,SP,BR,Construction
+C000976,Group 735,SP,BR,Construction
+C000283,Group 777,SP,BR,Retail
+C000233,Enterprise 625,SP,BR,Logistics
+C000434,Inc 739,SP,BR,Manufacturing
+C000679,Company 454,SP,BR,Education
+C000607,Enterprise 789,SP,BR,Financial Services
+C000438,Enterprise 157,SP,BR,Financial Services
+C000025,Group 954,SP,BR,Manufacturing
+C001110,Enterprise 458,SP,BR,Manufacturing
+C000516,Corp 190,SP,BR,Retail
+C000515,Group 298,SP,BR,Healthcare
+C000689,Company 181,SP,BR,Financial Services
+C000696,Corp 586,SP,BR,Technology
+C000693,Solutions 475,SP,BR,Manufacturing
+C000939,Company 131,SP,BR,Manufacturing
+C000834,Corp 213,SP,BR,Construction
+C000507,Group 438,SP,BR,Manufacturing
+C000146,Company 933,SP,BR,Retail
+C000831,Corp 762,SP,BR,Healthcare
+C001111,Inc 262,SP,BR,Construction
+C000964,Group 503,SP,BR,Financial Services
+C000931,Enterprise 270,SP,BR,Healthcare
+C000590,Enterprise 178,SP,BR,Financial Services
+C000771,Solutions 938,SP,BR,Logistics
+C000764,Solutions 227,SP,BR,Education
+C000770,Corp 672,SP,BR,Logistics
+C000034,Solutions 374,SP,BR,Construction
+C000962,Group 793,SP,BR,Financial Services
+C000355,Solutions 904,SP,BR,Construction
+C000231,Solutions 350,SP,BR,Logistics
+C001099,Corp 875,SP,BR,Financial Services
+C001017,Group 404,SP,BR,Technology
+C001188,Solutions 347,SP,BR,Construction
+C001231,Solutions 356,SP,BR,Manufacturing
+C000015,Enterprise 935,SP,BR,Healthcare
+C000626,Company 761,SP,BR,Logistics
+C000891,Group 785,SP,BR,Logistics
+C001029,Company 294,SP,BR,Logistics
+C001003,Company 858,SP,BR,Education
+C000435,Inc 324,SP,BR,Technology
+C000921,Solutions 203,SP,BR,Manufacturing
+C000076,Corp 590,SP,BR,Retail
+C001233,Solutions 887,SP,BR,Technology
+C001118,Inc 907,SP,BR,Healthcare
+C000982,Group 550,SP,BR,Construction
+C000904,Corp 142,SP,BR,Logistics
+C001075,Solutions 918,SP,BR,Manufacturing
+C000773,Solutions 715,SP,BR,Manufacturing
+C001055,Group 825,SP,BR,Construction
+C000816,Inc 417,SP,BR,Retail
+C000266,Enterprise 395,SP,BR,Technology
+C001042,Company 550,SP,BR,Retail
+C000304,Group 366,SP,BR,Retail
+C000687,Inc 133,SP,BR,Financial Services
+C000485,Company 594,SP,BR,Healthcare
+C001089,Solutions 962,SP,BR,Technology
+C000935,Group 525,SP,BR,Technology
+C000932,Inc 988,SP,BR,Retail
+C000247,Group 316,SP,BR,Logistics
+C000297,Company 659,SP,BR,Technology
+C000509,Company 753,SP,BR,Financial Services
+C000657,Solutions 755,SP,BR,Logistics
+C000694,Corp 511,SP,BR,Financial Services
+C000691,Solutions 159,SP,BR,Retail
+C000866,Company 570,SP,BR,Retail
+C001096,Corp 214,SP,BR,Retail
+C000882,Corp 652,SP,BR,Manufacturing
+C000749,Corp 662,SP,BR,Healthcare
+C000715,Inc 235,SP,BR,Financial Services
+C000780,Solutions 112,SP,BR,Healthcare
+C000648,Inc 150,SP,BR,Retail
+C001135,Enterprise 643,SP,BR,Construction
+C000885,Group 366,SP,BR,Healthcare
+C000883,Corp 884,SP,BR,Financial Services
+C000484,Enterprise 108,SP,BR,Construction
+C000761,Group 676,SP,BR,Manufacturing
+C000884,Group 110,SP,BR,Financial Services
+C000503,Company 537,TO,BR,Education
+C000926,Solutions 869,TO,BR,Education
+C001115,Inc 830,TO,BR,Logistics
+C001124,Solutions 335,TO,BR,Logistics
+C001107,Inc 287,TO,BR,Logistics
